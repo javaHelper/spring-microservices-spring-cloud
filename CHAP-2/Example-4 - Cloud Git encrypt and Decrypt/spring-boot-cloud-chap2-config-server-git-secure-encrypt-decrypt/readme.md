@@ -132,3 +132,5 @@ Response
     ]
 }
 ```
+
+If you wants to access it from client add ``encrypt.key: ABCDEFGHIJKLMNOPQRSTUVWXYZ`` to clients bootstrap.properties file..
