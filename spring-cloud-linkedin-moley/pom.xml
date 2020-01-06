@@ -1,0 +1,17 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.prateek</groupId>
+  <artifactId>spring-cloud-linkedin-moley</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>config-server</module>
+    <module>eureka-server</module>
+    <module>room-services</module>
+    <module>reservation-services</module>
+    <module>guest-services</module>
+	<module>reservation-business-services</module>
+	<module>reservation-webapp</module>
+  </modules>
+</project> 
